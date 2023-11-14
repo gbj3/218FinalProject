@@ -33,11 +33,11 @@
 
 <h2>SWOT Analysis</h2>
 <h4>Strengths</h4>
-<p>Community driven (Local shop)</p>>
+<p>Community driven (Local shop)</p>
 <h4>Weakness's</h4>
 <p>Dependant on a single location</p>
 <p>New store, clientbase not built yet</p>
 <h4>Opportunities</h4>
-<p>Introduce new items to the menu/Seasonal items</p>>
+<p>Introduce new items to the menu/Seasonal items</p>
 <h4>Threats</h4>
 <p>Global corporations</p>
