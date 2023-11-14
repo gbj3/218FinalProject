@@ -41,3 +41,17 @@
 <p>Introduce new items to the menu/Seasonal items</p>
 <h4>Threats</h4>
 <p>Global corporations</p>
+
+
+<h2>User Persona</h2>
+<h4>Name: Alex</h4>
+<p>Age: 20</p>
+<p>Occupation: Student</p>
+<p>Description:A third year college student who is majoring in accounting. He likes to go out to parties, spending the weekend going from apartment to apartment. He’s part of the schools lacrosse team, taking a large part of his time. During the week he hones in on his work, attempting to maintain a 3.5 GPA to attract potential internships to kick start his career. He finds himself drained by the time its noon and oftentimes needs caffeine to maintain his goals.</p>
+
+
+<h2>Sales Funnel</h2>
+<p>Discovery - Metatags in website design & social media ads</p>
+<p>Interest - We will offer 24/7 hours with high quality images of our product to make it appealing</p>
+<p>Decision - Offer student discounts and incentives (free coffee on friday if you get a pastry)</p>
+<p>Action - Allow the user to either order online or instore</p>
