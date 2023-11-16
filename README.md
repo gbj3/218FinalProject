@@ -4,7 +4,7 @@
 | Nov 7, 2023|    X       X    |                 |
 | Nov 9, 2023|                 |     X      X       |
 | Nov 14, 2023|   X      X       |                  |
-| Nov 16, 2023|                |                  |
+| Nov 16, 2023|                |     X             |
 | Nov 21, 2023|                |                  |
 | Nov 23, 2023|                |                  |
 | Nov 28, 2023|                |                  |
@@ -55,7 +55,14 @@
 <p>Discovery - Metatags in website design & social media ads</p>
 <p>Interest - We will offer 24/7 hours with high quality images of our product to make it appealing</p>
 <p>Decision - Offer student discounts and incentives (free coffee on friday if you get a pastry)</p>
-<p>Action - Allow the user to either order online or instore</p>
+<p>Action - Allow the user to either order online or instore to make the process eisier to make people more likely to recommend the cafe</p>
 
 <h2>User Story</h2>
-<p>Alex just finished lacrosse training and needs to prepare for his upcoming final exam for his intermediate accounting course that is going to be held the following day. Feeling exhuasted before its even 12, he decides he can't go back to his room to study as he will be too tempted to fall asleep and not get his work done. He looks up coffee shops around him, one is too busy, the other is too far, and the third has terrible reviews. Finally, finds a coffee shop that serves great coffee, has a great atmosphere, and close enough to make the trek on foot. He's able to get a cup o' joe which fuels him to be able to spend hours focused on his studies, earning himself an 94 on the exam, the highest in his section.</p>
+<h4>Discovery</h4>
+<p>Alex just finished lacrosse training and needs to prepare for his upcoming final exam for his intermediate accounting course that is going to be held the following day. Feeling exhuasted before its even 12, he decides he can't go back to his room to study as he will be too tempted to fall asleep and not get his work done. He looks up coffee shops around him, one is too busy, the other is too far, and the third has terrible reviews. </p>
+<h4>Interest</h4>
+<p>Finally, finds a coffee shop that serves great coffee and has a great atmosphere.</p>
+<h4>Decision</h4>
+<p>Alex decides to make the trek on foot, walking down the street to the coffee shop to see if he would like to work there</p>
+<h4>Action</h4>
+<p>He finds the location suitable with a helpful staff. He's able to get a cup o' joe which fuels him to be able to spend hours focused on his studies, earning himself an 94 on the exam, the highest in his section.</p>
