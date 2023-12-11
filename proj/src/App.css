@@ -36,3 +36,88 @@
     transform: rotate(360deg);
   }
 }
+
+.main-content {
+  font-family:'Times New Roman', Times, serif;
+}
+.main-content a {
+  color:antiquewhite;
+}
+
+.landing {
+  background-size: cover;
+  background-image: url('./utils/happycoffee.png');
+}
+
+.header {
+  border-bottom: 1px solid white;
+}
+
+.hero {
+  float:right;
+  background-image: url('./utils/happycoffee.png');
+  background-size: cover;
+  width: 100%;
+}
+
+.herotext {
+  width: 32rem;
+}
+
+.coffeemenu {
+  font-size: 23px;
+  font-weight: bold;
+  color:white;
+}
+
+.coffeedesc {
+  font-size: 18px;
+  font-weight: bold;
+  color:#C7A17A;
+  border-bottom: 1px solid;
+}
+
+.cost {
+  margin-left: 5rem;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+}
+
+.summary {
+  background: url(./utils/menubackground.png);
+  background-size: cover;
+  width: 100%;
+  height: auto;
+}
+
+.menubutton {
+  text-align: center;
+  align-items: center;
+  margin-top: 40rem;
+  padding-bottom: 2rem;
+}
+
+.imagecontainer {
+  border-bottom: #C7A17A solid 2px;
+  border-top: #C7A17A solid 2px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 1200px) {
+  .images {
+    flex-direction: column;
+  }
+}
+
+.images img {
+  flex: 33.33%;
+  padding: 2rem;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre&family=Hurricane&display=swap');
+
+.footer a {
+  color: black;
+}
