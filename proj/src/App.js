@@ -1,5 +1,4 @@
-import React, { useEffect } from "react";
-import ReactGA from "react-ga";
+import React from "react";
 import Header from "./components/Header";
 import './App.css'
 import HeroBox from "./components/Hero";
@@ -8,13 +7,7 @@ import StoreImg from "./components/StoreImages";
 import Footer from "./components/Footer";
 import { ChakraProvider } from "@chakra-ui/react";
 
-ReactGA.initialize('G-JDSQ81CLFF');
-
 export default function App() {
-  useEffect(() => {
-    // Trigger a pageview event on each page render
-    ReactGA.pageview(window.location.pathname + window.location.search);
-  }, []);
   return (
   <ChakraProvider>
   <div className="main-content">
