@@ -1,9 +1,10 @@
 import React from "react";
 import { Box, Button, Text, Link } from '@chakra-ui/react';
 
+
 const HeroBox = (props) => {
     return (
-        <Box float={'right'} color={'white'} p={'4rem'} mr={'4rem'}>
+        <Box float={'right'} color={'white'} p={'4rem'} mr={'4vw'}>
             <Text fontWeight={'bolder'} fontSize={'250%'}>
                 About Us
             </Text>
@@ -16,8 +17,8 @@ const HeroBox = (props) => {
             lovers, a spot for friends to gather, and a part of our beloved community. Join 
             us for your daily cup, and become a part of our story.
             </Text>
-            <Button mt={4} backgroundColor={'#731804'} color={'white'}>
-                <Link href='./menu'>Check Out Our Menu</Link>
+            <Button className={'newsletter'} mt={4} backgroundColor={'black'} color={'white'}>
+                <Link isExternal href='http://eepurl.com/iGdGEo'>Sign Up for Our Newsletter</Link>
             </Button>
         </Box>
     )

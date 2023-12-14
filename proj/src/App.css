@@ -61,7 +61,7 @@
 }
 
 .herotext {
-  width: 32rem;
+  width: 32vw;
 }
 
 .coffeemenu {
@@ -120,4 +120,8 @@
 
 .footer a {
   color: black;
+}
+.newsletter :hover {
+  color:black;
+  background-color: white;
 }

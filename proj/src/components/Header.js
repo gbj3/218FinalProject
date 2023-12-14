@@ -71,7 +71,7 @@ const MenuLinks = ({ isOpen }) => {
       >
         <MenuItem to="/">Home</MenuItem>
         <MenuItem to="/menu">Menu</MenuItem>
-        <MenuItem to="/contact" isLast>Contact Us</MenuItem>
+        <Link  isExternal href='http://eepurl.com/iGdGEo'>Join Our Newsletter</Link>
       </Stack>
     </Box>
   );

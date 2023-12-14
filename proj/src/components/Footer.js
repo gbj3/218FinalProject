@@ -3,7 +3,7 @@ import { Stack, HStack, Link, Image, IconButton, LinkProps } from '@chakra-ui/re
 import { FaFacebook, FaInstagram, FaTiktok } from 'react-icons/fa';
 import logo from './../utils/coffee-cup-logo.png';
 
-const links = ['Home', 'Menu', 'Contact Us'];
+const links = ['Home', 'Menu', 'Join Our Newsletter', 'Privacy Policy'];
 const accounts = [
   {
     url: 'https://facebook.com',
