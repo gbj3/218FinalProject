@@ -1,11 +1,12 @@
 import React from "react";
 import { Box, Container, Text, Heading, Image, Button, Link } from '@chakra-ui/react';
+
 import latte from "./../utils/caffelatte.png";
 import vanilla from "./../utils/vanillalatte.svg";
 import caffemocha from "./../utils/mocha.png";
 import espressomac from "./../utils/espressomac.png";
 import chocmocha from "./../utils/chocmocha.png";
-import caramellatte from "./../utils/caramellatte.png"
+import caramellatte from "./../utils/caramellatte.png";
 
 const StoreSum = (props) => {
     return (
@@ -89,7 +90,7 @@ const StoreSum = (props) => {
             </Container>
             <Container className={"menubutton"}>
                 <Button background={'#C7A17A'}>
-                    <Link href="#">View Menu</Link>
+                    <Link href={"./menu"}>View Menu</Link>
                 </Button>
             </Container>
         </Box>
