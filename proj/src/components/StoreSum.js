@@ -16,7 +16,7 @@ const StoreSum = (props) => {
                     Favorites
                 </Heading>
             </Container>
-            <Container className={'latte'} paddingTop={'5rem'} marginRight={'4rem'} paddingLeft={'8rem'} float={'left'}>
+            <Container id="sum" className={'latte'} paddingTop={'5rem'} marginRight={'4rem'} paddingLeft={'8rem'} float={'left'}>
                 <Image float={'left'} width={20} src={latte} alt="Caffe Latte" />
                 <Text className="coffeemenu">
                     Caffe Latte
@@ -90,7 +90,7 @@ const StoreSum = (props) => {
             </Container>
             <Container className={"menubutton"}>
                 <Button background={'#C7A17A'}>
-                    <Link href={"./menu"}>View Menu</Link>
+                    <Link href={"./../Menu."}>View Menu</Link>
                 </Button>
             </Container>
         </Box>

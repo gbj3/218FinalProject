@@ -2,8 +2,9 @@ import { Stack, HStack, Link, Image, IconButton, LinkProps } from '@chakra-ui/re
 // Here we have used react-icons package for the icons
 import { FaFacebook, FaInstagram, FaTiktok } from 'react-icons/fa';
 import logo from './../utils/coffee-cup-logo.png';
+import Privacy from './Privacy';
 
-const links = ['Home', 'Menu', 'Join Our Newsletter', 'Privacy Policy'];
+const links = ['Home', 'Menu', <Privacy />];
 const accounts = [
   {
     url: 'https://facebook.com',

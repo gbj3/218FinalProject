@@ -70,7 +70,7 @@ const MenuLinks = ({ isOpen }) => {
         pt={[4, 4, 0, 0]}
       >
         <MenuItem to="/">Home</MenuItem>
-        <MenuItem to="./Menu.js">Menu</MenuItem>
+        <MenuItem to="#sum">Menu</MenuItem>
         <Link  isExternal href='http://eepurl.com/iGdGEo'>Join Our Newsletter</Link>
       </Stack>
     </Box>
