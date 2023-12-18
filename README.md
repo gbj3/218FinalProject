@@ -66,3 +66,6 @@
 <p>Alex decides to make the trek on foot, walking down the street to the coffee shop to see if he would like to work there</p>
 <h4>Action</h4>
 <p>He finds the location suitable with a helpful staff. He's able to get a cup o' joe which fuels him to be able to spend hours focused on his studies, earning himself an 94 on the exam, the highest in his section.</p>
+
+<h1><a href="https://218-final-project.vercel.app/">VERCEL LINK</a></h1>
+<h1><a href="https://www.figma.com/file/ixXfMZU3oBLkg4e2HDNzks/218Final?type=design&node-id=0-1&mode=design&t=UygRru8EBIc3obbq-0">FIGMA LINK</a></h1>
