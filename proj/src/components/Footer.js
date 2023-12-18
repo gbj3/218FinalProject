@@ -3,8 +3,10 @@ import { Stack, HStack, Link, Image, IconButton, LinkProps } from '@chakra-ui/re
 import { FaFacebook, FaInstagram, FaTiktok } from 'react-icons/fa';
 import logo from './../utils/coffee-cup-logo.png';
 import Privacy from './Privacy';
+import Newsletter from './Newsletter';
+import Menu from './Menu';
 
-const links = ['Home', 'Menu', <Privacy />];
+const links = ['Home', <Menu />, <Newsletter />, <Privacy />];
 const accounts = [
   {
     url: 'https://facebook.com',
@@ -62,6 +64,7 @@ const Footer = () => {
             colorScheme={sc.type}
             icon={sc.icon}
             rounded="md"
+            variant={"link"}
           />
         ))}
       </Stack>

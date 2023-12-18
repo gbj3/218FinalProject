@@ -49,7 +49,7 @@ const MenuToggle = ({ toggle, isOpen }) => {
 const MenuItem = ({ children, isLast, to = "/", ...rest }) => {
   return (
     <Link href={to}>
-      <Text display="block" {...rest}>
+      <Text color="black" display="block" {...rest}>
         {children}
       </Text>
     </Link>
@@ -58,7 +58,7 @@ const MenuItem = ({ children, isLast, to = "/", ...rest }) => {
 
 const MenuLinks = ({ isOpen }) => {
   return (
-    <Box
+    <Box 
       display={{ base: isOpen ? "block" : "none", md: "block" }}
       flexBasis={{ base: "100%", md: "auto" }}
     >
@@ -71,7 +71,7 @@ const MenuLinks = ({ isOpen }) => {
       >
         <MenuItem to="/">Home</MenuItem>
         <MenuItem to="#sum">Menu</MenuItem>
-        <Link  isExternal href='http://eepurl.com/iGdGEo'>Join Our Newsletter</Link>
+        <Link color={"black"} isExternal href='http://eepurl.com/iGdGEo'>Join Our Newsletter</Link>
       </Stack>
     </Box>
   );
