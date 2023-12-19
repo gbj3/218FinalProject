@@ -1,0 +1,14 @@
+{
+  "name": "218finalproject",
+  "version": "1.0.0",
+  "description": "| Date       | Tuesday Sign-in | Thursday Sign-in | |------------|-----------------|------------------| | Nov 7, 2023|    X       X    |                 | | Nov 9, 2023|                 |     X      X       | | Nov 14, 2023|   X      X       |                  | | Nov 16, 2023|                |     X     X      | | Nov 21, 2023|   X    X         |                  | | Nov 23, 2023|                |     X    X         | | Nov 28, 2023|    X     X       |                  | | Nov 30, 2023|                |    X    X          | | Dec 5, 2023 |    X      X      |                  | | Dec 7, 2023 |                |    X     X         | | Dec 12, 2023|                |                  |",
+  "main": "tailwind.config.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.5"
+  }
+}
